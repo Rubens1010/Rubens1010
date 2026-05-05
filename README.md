@@ -10,7 +10,6 @@
 
 ## 💡 Sobre mim
 
-Autodidata por natureza, inquieto por vocação.  
 Sou o tipo de pessoa que não dorme até resolver aquele bug chato.  
 Apaixonado por transformar ideias em soluções reais, com foco em performance, usabilidade e impacto.
 
